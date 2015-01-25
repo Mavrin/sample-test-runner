@@ -11,5 +11,6 @@
   "devDependencies": {
     "karma": "^0.12.31",
     "karma-chrome-launcher": "^0.1.7"
-  }
+  },
+  "start":"node_modules/karma/bin/karma start my.conf.js"
 }
